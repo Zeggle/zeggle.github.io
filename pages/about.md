@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Ashley Newell is a student of Music Techonology and Media Production at Mansfield University. Working independently as a producer and audio engineer since 2019, she has a great passion for exploring experimental and avant-garde sound design techniques, accompanied by a desire to explore and better understand industry standard practices.
